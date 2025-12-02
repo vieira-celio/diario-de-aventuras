@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912542896591",
+    "project_id": "diario-aventuras-6db45",
+    "storage_bucket": "diario-aventuras-6db45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912542896591:android:f5f53a11ebfe046e1dc2ba",
+        "android_client_info": {
+          "package_name": "com.example.diario_aventuras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdLTM-70XlcmiOO336v7263WTwYgprm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

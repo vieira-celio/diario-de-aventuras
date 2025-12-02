@@ -1,6 +1,6 @@
 import 'package:diario_aventuras/auth/login.page.dart';
 import 'package:flutter/material.dart';
-import '../auth/auth.service.dart';
+import '../services/auth.service.dart';
 
 class ForgetPasswordPage extends StatelessWidget {
   final TextEditingController emailController = TextEditingController();

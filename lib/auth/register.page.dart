@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../auth/auth.service.dart';
+import '../services/auth.service.dart';
 import 'package:diario_aventuras/auth/login.page.dart';
 
 //declarando que o widget é mudavel, statefull

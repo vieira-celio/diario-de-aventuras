@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../auth/auth.service.dart';
+import '../services/auth.service.dart';
 import 'package:diario_aventuras/auth/register.page.dart';
 import 'package:diario_aventuras/auth/forget_password.page.dart';
 import 'package:diario_aventuras/pages/create.page.dart';
